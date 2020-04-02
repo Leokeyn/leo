@@ -1,0 +1,5 @@
+import os
+os.system("start cmd")
+import sys
+exit()
+import time
